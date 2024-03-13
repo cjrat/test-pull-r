@@ -1,6 +1,2 @@
 Content made in main branch!
-<<<<<<< HEAD
 Edited in branch2!
-=======
-Edited in branch1!
->>>>>>> 91fc60e1767111097e9f9d2327142b38224e07f1
